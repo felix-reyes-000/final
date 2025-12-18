@@ -12,6 +12,7 @@ A robust real-time order notification system built with Flutter and Laravel, fea
 - SSL support
 - Cross-platform support (Android & iOS)
 
+
 ## Prerequisites
 
 - Flutter SDK (latest stable version)
